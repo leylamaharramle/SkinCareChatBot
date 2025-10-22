@@ -31,9 +31,7 @@ Backend: Python (FastAPI / Flask) or Node.js (Express)
 
 AI Model: Rule-based logic or integrated NLP (e.g., GeminiAI API)
 
-Database: SQLite / MongoDB / PostgreSQL (optional)
-
-Frontend: React / Vue / HTML chatbot widget (optional)
+Frontend: React / Vue / HTML chatbot widget 
 
 Deployment: Vercel / Heroku / Docker / local VPS
 
