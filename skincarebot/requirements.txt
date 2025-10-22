@@ -1,0 +1,10 @@
+openai 
+gradio 
+pillow 
+requests 
+beautifulsoup4
+speechrecognition
+pydub 
+ffmpeg-python
+transformers 
+google-generativeai==0.3.2
